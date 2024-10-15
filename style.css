@@ -304,20 +304,20 @@ btn-color-2 {
   margin: auto 0;
 }
 
-/* EXPERIENCE SECTION */
+/* TECH STACK SECTION */
 
-#experience {
+#techStack {
   position: relative;
 }
 
-.experience-sub-title {
+.techStack-sub-title {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
 }
 
-.experience-details-container {
+.techStack-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -334,7 +334,6 @@ btn-color-2 {
 article {
   display: flex;
   width: 10rem;
-  justify-content: space-around;
   gap: 0.5rem;
 }
 
